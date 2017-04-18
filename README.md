@@ -1,2 +1,2 @@
-# Responsive-Portfolio
-Responsive Portfolio Homework Week 2
+# mcrigler.github.io
+Publishing webpages
